@@ -21,9 +21,9 @@
 
 ---
 
-## 🚀 Últimos proyectos
-- 🔗 [Mi API de E-commerce](https://github.com/tuusuario/api-ecommerce)
-- 🔗 [Mi Frontend de E-commerce](https://github.com/tuusuario/front-ecommerce)
+## 🚀 Últimos proyectos //Privados por firma de confidencialidad
+- 🔗 ModuloOdontologico.sln
+- 🔗 WebAtencionMedica.sln
 
 ---
 
