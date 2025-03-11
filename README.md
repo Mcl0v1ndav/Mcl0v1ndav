@@ -25,7 +25,4 @@
 - 🔗 ModuloOdontologico.sln
 - 🔗 WebAtencionMedica.sln
 
----
 
-## 📊 Estadísticas de GitHub
-![Tu usuario GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true)
