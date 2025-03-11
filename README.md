@@ -1,6 +1,7 @@
 # 👋 Hola, soy David Carranza
 
-💻 Desarrollador Full-Stack apasionado por la tecnología.
+💻 Soy un esarrollador Full-Stack siempre buscando adentrame mas en mis tecnologias favoritas,
+tengo 3 años de experiencia programando de manera profesional.
 
 🔭 Actualmente estoy trabajando en sistemas medicos.
 
