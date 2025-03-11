@@ -1,20 +1,23 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy David Carranza
 
 💻 Desarrollador Full-Stack apasionado por la tecnología.
 
-🔭 Actualmente estoy trabajando en [tu proyecto].
+🔭 Actualmente estoy trabajando en sistemas medicos.
 
-🌱 Aprendiendo **Next.js y TypeScript**.
+🌱 Aprendiendo **Python y TypeScript**.
 
-📫 Contacto: [tu email o redes sociales].
+📫 Contacto: davidcarranzap80@gmail.com.
 
 ---
 
 ## 🔧 Tecnologías y herramientas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
 
 ---
 
@@ -25,4 +28,4 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![Tu usuario GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
+![Tu usuario GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true)
