@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**Mcl0v1ndav/Mcl0v1ndav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full-Stack apasionado por la tecnología.
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy trabajando en [tu proyecto].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendiendo **Next.js y TypeScript**.
+
+📫 Contacto: [tu email o redes sociales].
+
+---
+
+## 🔧 Tecnologías y herramientas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## 🚀 Últimos proyectos
+- 🔗 [Mi API de E-commerce](https://github.com/tuusuario/api-ecommerce)
+- 🔗 [Mi Frontend de E-commerce](https://github.com/tuusuario/front-ecommerce)
+
+---
+
+## 📊 Estadísticas de GitHub
+![Tu usuario GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
