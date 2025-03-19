@@ -1,17 +1,16 @@
-# 👋 Hola, soy David Carranza
+# 👋 Hi, I'm David Carranza
 
-💻 Soy un esarrollador Full-Stack siempre buscando adentrame mas en mis tecnologias favoritas,
-tengo 3 años de experiencia programando de manera profesional.
+💻 I'm a Full-Stack Developer always looking to dive deeper into my favorite technologies, with 3 years of professional programming experience.
 
-🔭 Actualmente estoy trabajando en sistemas medicos.
+🔭 Currently working on medical systems.
 
-🌱 Aprendiendo **Python y TypeScript**.
+🌱 Currently learning **Python and TypeScript**.
 
-📫 Contacto: davidcarranzap80@gmail.com.
+📫 Contact: davidcarranzap80@gmail.com
 
 ---
 
-## 🔧 Tecnologías y herramientas
+## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -22,8 +21,6 @@ tengo 3 años de experiencia programando de manera profesional.
 
 ---
 
-## 🚀 Últimos proyectos //Privados por firma de confidencialidad
+## 🚀 Recent Projects //Private due to confidentiality agreements
 - 🔗 ModuloOdontologico.sln
 - 🔗 WebAtencionMedica.sln
-
-
