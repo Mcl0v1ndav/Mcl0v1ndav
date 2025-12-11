@@ -24,3 +24,4 @@
 ## 🚀 Recent Projects //Private due to confidentiality agreements
 - 🔗 ModuloOdontologico.sln
 - 🔗 WebAtencionMedica.sln
+- 🔗 AppClinica.sln
