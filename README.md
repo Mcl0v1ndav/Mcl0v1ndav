@@ -8,6 +8,8 @@
 
 📫 Contact: davidcarranzap80@gmail.com
 
+🌐 Web Portfolio: https://gleaming-cuchufli-2b42bb.netlify.app
+
 ---
 
 ## 🔧 Technologies & Tools
