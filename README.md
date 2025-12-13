@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Carranza
 
-💻 I'm a Full-Stack Developer always looking to dive deeper into my favorite technologies, with 5 years of professional programming experience.
+💻 I'm a Full-Stack Developer always looking to dive deeper into my favorite technologies, with 4 years of professional programming experience.
 
 🔭 Currently working on medical systems.
 
